@@ -28,10 +28,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GabrielSSGF/activity-report-for-Confluence
+$ git clone https://github.com/GabrielSSGF/Activity-Report-for-Confluence
 
 # Go into the repository
-$ cd activity-report-for-Confluence
+$ cd Activity-Report-for-Confluence
 
 # Install dependencies
 $ pip install pandas openpyxl requests
