@@ -37,7 +37,7 @@ $ cd Activity-Report-for-Confluence
 $ pip install pandas openpyxl requests
 
 # Run the app
-$ python3 Main.py
+$ python3 confluenceContributors.py
 ```
 
 ## Credits
