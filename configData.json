@@ -1,0 +1,10 @@
+{
+    "Email": "INSERT YOUR EMAIL",
+    "APIToken": "INSERT YOUR API TOKEN",
+    "CompanyDomain": "INSERT YOUR COMPANY ATLASSIAN DOMAIN",
+
+    "PathToFile": "INSERT THE PATH TO YOUR FILE WITHOUT THE EXTENSION",
+    
+    "PageID": "INSERT YOUR PAGE ID",
+    "PageTitle": "INSERT THE PAGE TITLE"
+}
